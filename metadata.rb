@@ -1,4 +1,4 @@
-name             "iptalbes-for-centos"
+name             "iptalbes-centos"
 maintainer       "akahigeg"
 maintainer_email "akahigeg@gmail.com"
 license          "MIT"
